@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/activities/",
+        "parent_report": {
+            "@id": "activity_path:parent_report/parent_report_schema",
+            "@type": "@id"
+        },
+        "child_report": {
+            "@id": "activity_path:child_report/child_report_schema",
+            "@type": "@id"
+        },
+        "adult_report": {
+            "@id": "activity_path:adult_report/adult_report_schema",
+            "@type": "@id"
+        }
+    }
+}

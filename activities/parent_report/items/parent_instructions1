@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_instructions1",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "For each item, please select Never, Sometimes, or Often. It would help us if you answered all items as best as you can even if you are not absolutely certain. Please give your answers on the basis of your  behavior over the past 6 months. "
+}

@@ -1,0 +1,299 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/activities/child_report/child_report_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "child_report_schema",
+    "skos:prefLabel": "Self Report 11-17 ",
+    "skos:altLabel": "child_report_schema",
+    "schema:description": "Self Report 11-17 ",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "child_parent_consent",
+            "isAbout": "child_parent_consent"
+        },
+        {
+            "variableName": "child_parent_consent2",
+            "isAbout": "child_parent_consent2"
+        },
+        {
+            "variableName": "child_assent",
+            "isAbout": "child_assent"
+        },
+        {
+            "variableName": "child_Age",
+            "isAbout": "child_Age"
+        },
+        {
+            "variableName": "child_Sex",
+            "isAbout": "child_Sex"
+        },
+        {
+            "variableName": "child_Race",
+            "isAbout": "child_Race"
+        },
+        {
+            "variableName": "child_Ethnicity",
+            "isAbout": "child_Ethnicity"
+        },
+        {
+            "variableName": "child_instructions1",
+            "isAbout": "child_instructions1"
+        },
+        {
+            "variableName": "child_Q1score",
+            "isAbout": "child_Q1score"
+        },
+        {
+            "variableName": "child_Q2score",
+            "isAbout": "child_Q2score"
+        },
+        {
+            "variableName": "child_Q3score",
+            "isAbout": "child_Q3score"
+        },
+        {
+            "variableName": "child_Q4score",
+            "isAbout": "child_Q4score"
+        },
+        {
+            "variableName": "child_Q5score",
+            "isAbout": "child_Q5score"
+        },
+        {
+            "variableName": "child_Q6score",
+            "isAbout": "child_Q6score"
+        },
+        {
+            "variableName": "child_Q7score",
+            "isAbout": "child_Q7score"
+        },
+        {
+            "variableName": "child_Q8score",
+            "isAbout": "child_Q8score"
+        },
+        {
+            "variableName": "child_Q9score",
+            "isAbout": "child_Q9score"
+        },
+        {
+            "variableName": "child_Q10score",
+            "isAbout": "child_Q10score"
+        },
+        {
+            "variableName": "child_Q11score",
+            "isAbout": "child_Q11score"
+        },
+        {
+            "variableName": "child_Q12score",
+            "isAbout": "child_Q12score"
+        },
+        {
+            "variableName": "child_Q13score",
+            "isAbout": "child_Q13score"
+        },
+        {
+            "variableName": "child_Q14score",
+            "isAbout": "child_Q14score"
+        },
+        {
+            "variableName": "child_Q15score",
+            "isAbout": "child_Q15score"
+        },
+        {
+            "variableName": "child_Q16score",
+            "isAbout": "child_Q16score"
+        },
+        {
+            "variableName": "child_Q17score",
+            "isAbout": "child_Q17score"
+        },
+        {
+            "variableName": "child_Q18score",
+            "isAbout": "child_Q18score"
+        },
+        {
+            "variableName": "child_Q19score",
+            "isAbout": "child_Q19score"
+        },
+        {
+            "variableName": "child_Q20score",
+            "isAbout": "child_Q20score"
+        },
+        {
+            "variableName": "child_Q21score",
+            "isAbout": "child_Q21score"
+        },
+        {
+            "variableName": "child_instructions2",
+            "isAbout": "child_instructions2"
+        },
+        {
+            "variableName": "child_Q22score",
+            "isAbout": "child_Q22score"
+        },
+        {
+            "variableName": "child_Q23score",
+            "isAbout": "child_Q23score"
+        },
+        {
+            "variableName": "child_Q24score",
+            "isAbout": "child_Q24score"
+        },
+        {
+            "variableName": "child_Q25score",
+            "isAbout": "child_Q25score"
+        },
+        {
+            "variableName": "child_CRAFFT_Alcohol",
+            "isAbout": "child_CRAFFT_Alcohol"
+        },
+        {
+            "variableName": "child_CRAFFT_Smoke",
+            "isAbout": "child_CRAFFT_Smoke"
+        },
+        {
+            "variableName": "child_CRAFFT_Other_Drug",
+            "isAbout": "child_CRAFFT_Other_Drug"
+        },
+        {
+            "variableName": "child_CRAFFT_Car",
+            "isAbout": "child_CRAFFT_Car"
+        },
+        {
+            "variableName": "child_CRAFFT_Relax",
+            "isAbout": "child_CRAFFT_Relax"
+        },
+        {
+            "variableName": "child_CRAFFT_Alone",
+            "isAbout": "child_CRAFFT_Alone"
+        },
+        {
+            "variableName": "child_CRAFFT_Forget",
+            "isAbout": "child_CRAFFT_Forget"
+        },
+        {
+            "variableName": "child_CRAFFT_CutDown",
+            "isAbout": "child_CRAFFT_CutDown"
+        },
+        {
+            "variableName": "child_CRAFFT_Trouble",
+            "isAbout": "child_CRAFFT_Trouble"
+        },
+        {
+            "variableName": "child_height",
+            "isAbout": "child_height"
+        },
+        {
+            "variableName": "child_weight",
+            "isAbout": "child_weight"
+        },
+        {
+            "variableName": "child_ID",
+            "isAbout": "child_ID"
+        }
+    ],
+    "ui": {
+        "order": [
+            "child_parent_consent",
+            "child_parent_consent2",
+            "child_assent",
+            "child_Age",
+            "child_Sex",
+            "child_Race",
+            "child_Ethnicity",
+            "child_instructions1",
+            "child_Q1score",
+            "child_Q2score",
+            "child_Q3score",
+            "child_Q4score",
+            "child_Q5score",
+            "child_Q6score",
+            "child_Q7score",
+            "child_Q8score",
+            "child_Q9score",
+            "child_Q10score",
+            "child_Q11score",
+            "child_Q12score",
+            "child_Q13score",
+            "child_Q14score",
+            "child_Q15score",
+            "child_Q16score",
+            "child_Q17score",
+            "child_Q18score",
+            "child_Q19score",
+            "child_Q20score",
+            "child_Q21score",
+            "child_instructions2",
+            "child_Q22score",
+            "child_Q23score",
+            "child_Q24score",
+            "child_Q25score",
+            "child_CRAFFT_Alcohol",
+            "child_CRAFFT_Smoke",
+            "child_CRAFFT_Other_Drug",
+            "child_CRAFFT_Car",
+            "child_CRAFFT_Relax",
+            "child_CRAFFT_Alone",
+            "child_CRAFFT_Forget",
+            "child_CRAFFT_CutDown",
+            "child_CRAFFT_Trouble",
+            "child_height",
+            "child_weight",
+            "child_ID"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "child_parent_consent": true,
+            "child_parent_consent2": true,
+            "child_assent": true,
+            "child_Age": true,
+            "child_Sex": true,
+            "child_Race": true,
+            "child_Ethnicity": true,
+            "child_instructions1": true,
+            "child_Q1score": true,
+            "child_Q2score": true,
+            "child_Q3score": true,
+            "child_Q4score": true,
+            "child_Q5score": true,
+            "child_Q6score": true,
+            "child_Q7score": true,
+            "child_Q8score": true,
+            "child_Q9score": true,
+            "child_Q10score": true,
+            "child_Q11score": true,
+            "child_Q12score": true,
+            "child_Q13score": true,
+            "child_Q14score": true,
+            "child_Q15score": true,
+            "child_Q16score": true,
+            "child_Q17score": true,
+            "child_Q18score": true,
+            "child_Q19score": true,
+            "child_Q20score": true,
+            "child_Q21score": true,
+            "child_instructions2": true,
+            "child_Q22score": true,
+            "child_Q23score": true,
+            "child_Q24score": true,
+            "child_Q25score": true,
+            "child_CRAFFT_Alcohol": true,
+            "child_CRAFFT_Smoke": true,
+            "child_CRAFFT_Other_Drug": true,
+            "child_CRAFFT_Car": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_CRAFFT_Relax": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_CRAFFT_Alone": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_CRAFFT_Forget": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_CRAFFT_CutDown": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_CRAFFT_Trouble": "child_CRAFFT_Alcohol == 1 || child_CRAFFT_Smoke == 1 || child_CRAFFT_Other_Drug == 1",
+            "child_height": true,
+            "child_weight": true,
+            "child_ID": true
+        }
+    }
+}

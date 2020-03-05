@@ -1,0 +1,190 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "child_report": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/activities/child_report/items/",
+        "child_parent_consent": {
+            "@id": "child_report:child_parent_consent",
+            "@type": "@id"
+        },
+        "child_parent_consent2": {
+            "@id": "child_report:child_parent_consent2",
+            "@type": "@id"
+        },
+        "child_assent": {
+            "@id": "child_report:child_assent",
+            "@type": "@id"
+        },
+        "child_Age": {
+            "@id": "child_report:child_Age",
+            "@type": "@id"
+        },
+        "child_Sex": {
+            "@id": "child_report:child_Sex",
+            "@type": "@id"
+        },
+        "child_Race": {
+            "@id": "child_report:child_Race",
+            "@type": "@id"
+        },
+        "child_Ethnicity": {
+            "@id": "child_report:child_Ethnicity",
+            "@type": "@id"
+        },
+        "child_instructions1": {
+            "@id": "child_report:child_instructions1",
+            "@type": "@id"
+        },
+        "child_Q1score": {
+            "@id": "child_report:child_Q1score",
+            "@type": "@id"
+        },
+        "child_Q2score": {
+            "@id": "child_report:child_Q2score",
+            "@type": "@id"
+        },
+        "child_Q3score": {
+            "@id": "child_report:child_Q3score",
+            "@type": "@id"
+        },
+        "child_Q4score": {
+            "@id": "child_report:child_Q4score",
+            "@type": "@id"
+        },
+        "child_Q5score": {
+            "@id": "child_report:child_Q5score",
+            "@type": "@id"
+        },
+        "child_Q6score": {
+            "@id": "child_report:child_Q6score",
+            "@type": "@id"
+        },
+        "child_Q7score": {
+            "@id": "child_report:child_Q7score",
+            "@type": "@id"
+        },
+        "child_Q8score": {
+            "@id": "child_report:child_Q8score",
+            "@type": "@id"
+        },
+        "child_Q9score": {
+            "@id": "child_report:child_Q9score",
+            "@type": "@id"
+        },
+        "child_Q10score": {
+            "@id": "child_report:child_Q10score",
+            "@type": "@id"
+        },
+        "child_Q11score": {
+            "@id": "child_report:child_Q11score",
+            "@type": "@id"
+        },
+        "child_Q12score": {
+            "@id": "child_report:child_Q12score",
+            "@type": "@id"
+        },
+        "child_Q13score": {
+            "@id": "child_report:child_Q13score",
+            "@type": "@id"
+        },
+        "child_Q14score": {
+            "@id": "child_report:child_Q14score",
+            "@type": "@id"
+        },
+        "child_Q15score": {
+            "@id": "child_report:child_Q15score",
+            "@type": "@id"
+        },
+        "child_Q16score": {
+            "@id": "child_report:child_Q16score",
+            "@type": "@id"
+        },
+        "child_Q17score": {
+            "@id": "child_report:child_Q17score",
+            "@type": "@id"
+        },
+        "child_Q18score": {
+            "@id": "child_report:child_Q18score",
+            "@type": "@id"
+        },
+        "child_Q19score": {
+            "@id": "child_report:child_Q19score",
+            "@type": "@id"
+        },
+        "child_Q20score": {
+            "@id": "child_report:child_Q20score",
+            "@type": "@id"
+        },
+        "child_Q21score": {
+            "@id": "child_report:child_Q21score",
+            "@type": "@id"
+        },
+        "child_instructions2": {
+            "@id": "child_report:child_instructions2",
+            "@type": "@id"
+        },
+        "child_Q22score": {
+            "@id": "child_report:child_Q22score",
+            "@type": "@id"
+        },
+        "child_Q23score": {
+            "@id": "child_report:child_Q23score",
+            "@type": "@id"
+        },
+        "child_Q24score": {
+            "@id": "child_report:child_Q24score",
+            "@type": "@id"
+        },
+        "child_Q25score": {
+            "@id": "child_report:child_Q25score",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Alcohol": {
+            "@id": "child_report:child_CRAFFT_Alcohol",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Smoke": {
+            "@id": "child_report:child_CRAFFT_Smoke",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Other_Drug": {
+            "@id": "child_report:child_CRAFFT_Other_Drug",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Car": {
+            "@id": "child_report:child_CRAFFT_Car",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Relax": {
+            "@id": "child_report:child_CRAFFT_Relax",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Alone": {
+            "@id": "child_report:child_CRAFFT_Alone",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Forget": {
+            "@id": "child_report:child_CRAFFT_Forget",
+            "@type": "@id"
+        },
+        "child_CRAFFT_CutDown": {
+            "@id": "child_report:child_CRAFFT_CutDown",
+            "@type": "@id"
+        },
+        "child_CRAFFT_Trouble": {
+            "@id": "child_report:child_CRAFFT_Trouble",
+            "@type": "@id"
+        },
+        "child_height": {
+            "@id": "child_report:child_height",
+            "@type": "@id"
+        },
+        "child_weight": {
+            "@id": "child_report:child_weight",
+            "@type": "@id"
+        },
+        "child_ID": {
+            "@id": "child_report:child_ID",
+            "@type": "@id"
+        }
+    }
+}

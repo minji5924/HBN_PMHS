@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_Q19score",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "Thoughts that you would be better of dead or of hurting yourself in some way",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "Not at all",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Several Days",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "More than Half the Days",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Nearly Every Day",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "child_assent",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Welcome! You are being asked by your doctor to fill out this brief questionnaire about your feelings and behavior. The questionnaire may take up to 10 minutes of your time to complete. There will be no cost and no payment to you for filling it out.  \r\n\r\nYour doctor may use this information to improve your physical and mental health well being. Additionally, this information may be used for general research on children’s mental health. \r\n\r\nYour participation is voluntary; you do not have to take part.  Once you have started the questionnaire you can stop at any time.  \r\n\r\n Note: Your responses are coded, and although no personally identifiable information is collected through this questionnaire there is the possible risk of breach of confidentiality. \r\n\r\n By clicking next, you agree to complete this questionnaire "
+}

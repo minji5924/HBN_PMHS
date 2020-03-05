@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_Q22score",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "Were you preoccupied with gaining weight or worrying a lot about becoming fat?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "Not True",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Somewhat True",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Certainly True",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

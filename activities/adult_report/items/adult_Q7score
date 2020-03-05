@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_Q7score",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "Have trouble concentrating",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "Never",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Sometimes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Often",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

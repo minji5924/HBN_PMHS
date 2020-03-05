@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_Q21score",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "Feeling down, depressed, or hopeless",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "Not at all",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Several Days",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "More than Half the Days",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Nearly Every Day",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

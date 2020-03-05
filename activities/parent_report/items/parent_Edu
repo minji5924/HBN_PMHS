@@ -1,0 +1,54 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_Edu",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
+    },
+    "question": "What is the highest level of education of the child's legal guardian?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Less than 7th grade",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Junior high/Middle school (9th grade)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Partial high school (10th or 11th grade)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "High school graduate",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "Partial college (at least one year)",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "College education",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "Graduate degree",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

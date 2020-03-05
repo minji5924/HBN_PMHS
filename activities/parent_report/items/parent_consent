@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_consent",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Welcome! You are being asked by your child’s physician to fill out this brief questionnaire about your child’s behavior. The questionnaire may take up to 10 minutes of your time to complete. There will be no cost and no payment to you for filling it out. \r\n\r\nYour child’s physician may use this information to improve your child’s physical and mental health evaluation. Additionally, this information may be used for general research on children’s mental health. The principal investigator for this general research portion plans to have 1500 parents or legal guardian’s participate. \r\n\r\nRemember, this questionnaire is not a substitute for a diagnostic evaluation by a medical or mental health professional. \r\n\r\nYour participation is voluntary; you do not have to take part.  Once you have started the questionnaire you can stop at any time.  \r\n\r\nIf you believe your child has a psychiatric or learning disorder, please consult your child’s physician. \r\n\r\nNote: Your responses are anonymous, and although no personally identifiable information is collected through this questionnaire there is the possible risk of breach of confidentiality. \r\n\r\nPlease email the Principal investigator with any questions or concerns about the research at: michael.milham@childmind.org \r\n\r\nIf you have any questions or complaints about your rights as a research subject, contact: \r\n\r\n+By Mail: Study Subject Adviser, Chesapeake IRB, 6940 Columbia Gateway Drive, Suite 110, Columbia, MD 21046 \r\n\r\n+or call **toll free**: 877-992-4724 \r\n\r\n+or by **email**: adviser@chesapeakeirb.com new/Please reference the following number when contacting the Study Subject Adviser: Pro00018821. new/By clicking next, you agree to the Terms and Conditions "
+}

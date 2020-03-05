@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_Age",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is your age?"
+}

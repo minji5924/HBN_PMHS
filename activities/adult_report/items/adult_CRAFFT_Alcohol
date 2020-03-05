@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_CRAFFT_Alcohol",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
+    },
+    "question": "During the past 12 months, did you: \r\n\r\nDrink any alcohol (more than a few sips)? (Do not count sips of alcohol taken during family or religious events)",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

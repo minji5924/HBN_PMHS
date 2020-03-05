@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_Location",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
+    },
+    "question": "In what area of Staten Island do you live?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "North Shore",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Mid Island",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "South Shore",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Do not live on Staten Isand",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

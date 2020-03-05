@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_CRAFFT_Smoke",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
+    },
+    "question": "During the past 12 months, did you: \r\n\r\nSmoke any marijuanaor hashish?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

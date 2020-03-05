@@ -1,0 +1,73 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_Race",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "What is your race?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "White",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Black or African America",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Hispanic or Latino",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "South Asian or Indian American",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "Middle Eastern or Arab American",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "East Asian or Asian American",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "Native American or American Indian",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Two or More Races",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "Don't know",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "Choose not to specify",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

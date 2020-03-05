@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/protocols/HBN_PMHS/HBN_PMHS_context"
+    ],
+    "@type": "reproschema:ActivitySet",
+    "@id": "HBN_PMHS_schema",
+    "skos:prefLabel": "Mental Health Screening Survey: English",
+    "skos:altLabel": "HBN_PMHS_schema",
+    "schema:description": "version 9",
+    "schema:about": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "variableMap": [
+        {
+            "variableName": "parent_report",
+            "isAbout": "parent_report"
+        },
+        {
+            "variableName": "child_report",
+            "isAbout": "child_report"
+        },
+        {
+            "variableName": "adult_report",
+            "isAbout": "adult_report"
+        }
+    ],
+    "ui": {
+        "order": [
+            "parent_report",
+            "child_report",
+            "adult_report"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "parent_report": true,
+            "child_report": true,
+            "adult_report": true
+        }
+    }
+}

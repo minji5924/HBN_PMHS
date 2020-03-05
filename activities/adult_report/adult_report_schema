@@ -1,0 +1,293 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/activities/adult_report/adult_report_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "adult_report_schema",
+    "skos:prefLabel": "Self Report 18+",
+    "skos:altLabel": "adult_report_schema",
+    "schema:description": "Self Report 18+",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "adult_consent",
+            "isAbout": "adult_consent"
+        },
+        {
+            "variableName": "adult_consent2",
+            "isAbout": "adult_consent2"
+        },
+        {
+            "variableName": "adult_Age",
+            "isAbout": "adult_Age"
+        },
+        {
+            "variableName": "adult_Sex",
+            "isAbout": "adult_Sex"
+        },
+        {
+            "variableName": "adult_Race",
+            "isAbout": "adult_Race"
+        },
+        {
+            "variableName": "adult_Ethnicity",
+            "isAbout": "adult_Ethnicity"
+        },
+        {
+            "variableName": "adult_instructions1",
+            "isAbout": "adult_instructions1"
+        },
+        {
+            "variableName": "adult_Q1score",
+            "isAbout": "adult_Q1score"
+        },
+        {
+            "variableName": "adult_Q2score",
+            "isAbout": "adult_Q2score"
+        },
+        {
+            "variableName": "adult_Q3score",
+            "isAbout": "adult_Q3score"
+        },
+        {
+            "variableName": "adult_Q4score",
+            "isAbout": "adult_Q4score"
+        },
+        {
+            "variableName": "adult_Q5score",
+            "isAbout": "adult_Q5score"
+        },
+        {
+            "variableName": "adult_Q6score",
+            "isAbout": "adult_Q6score"
+        },
+        {
+            "variableName": "adult_Q7score",
+            "isAbout": "adult_Q7score"
+        },
+        {
+            "variableName": "adult_Q8score",
+            "isAbout": "adult_Q8score"
+        },
+        {
+            "variableName": "adult_Q9score",
+            "isAbout": "adult_Q9score"
+        },
+        {
+            "variableName": "adult_Q10score",
+            "isAbout": "adult_Q10score"
+        },
+        {
+            "variableName": "adult_Q11score",
+            "isAbout": "adult_Q11score"
+        },
+        {
+            "variableName": "adult_Q12score",
+            "isAbout": "adult_Q12score"
+        },
+        {
+            "variableName": "adult_Q13score",
+            "isAbout": "adult_Q13score"
+        },
+        {
+            "variableName": "adult_Q14score",
+            "isAbout": "adult_Q14score"
+        },
+        {
+            "variableName": "adult_Q15score",
+            "isAbout": "adult_Q15score"
+        },
+        {
+            "variableName": "adult_Q16score",
+            "isAbout": "adult_Q16score"
+        },
+        {
+            "variableName": "adult_Q17score",
+            "isAbout": "adult_Q17score"
+        },
+        {
+            "variableName": "adult_Q18score",
+            "isAbout": "adult_Q18score"
+        },
+        {
+            "variableName": "adult_Q19score",
+            "isAbout": "adult_Q19score"
+        },
+        {
+            "variableName": "adult_Q20score",
+            "isAbout": "adult_Q20score"
+        },
+        {
+            "variableName": "adult_Q21score",
+            "isAbout": "adult_Q21score"
+        },
+        {
+            "variableName": "adult_instructions2",
+            "isAbout": "adult_instructions2"
+        },
+        {
+            "variableName": "adult_Q22score",
+            "isAbout": "adult_Q22score"
+        },
+        {
+            "variableName": "adult_Q23score",
+            "isAbout": "adult_Q23score"
+        },
+        {
+            "variableName": "adult_Q24score",
+            "isAbout": "adult_Q24score"
+        },
+        {
+            "variableName": "adult_Q25score",
+            "isAbout": "adult_Q25score"
+        },
+        {
+            "variableName": "adult_CRAFFT_Alcohol",
+            "isAbout": "adult_CRAFFT_Alcohol"
+        },
+        {
+            "variableName": "adult_CRAFFT_Smoke",
+            "isAbout": "adult_CRAFFT_Smoke"
+        },
+        {
+            "variableName": "adult_CRAFFT_Other_Drug",
+            "isAbout": "adult_CRAFFT_Other_Drug"
+        },
+        {
+            "variableName": "adult_CRAFFT_Car",
+            "isAbout": "adult_CRAFFT_Car"
+        },
+        {
+            "variableName": "adult_CRAFFT_Relax",
+            "isAbout": "adult_CRAFFT_Relax"
+        },
+        {
+            "variableName": "adult_CRAFFT_Alone",
+            "isAbout": "adult_CRAFFT_Alone"
+        },
+        {
+            "variableName": "adult_CRAFFT_Forget",
+            "isAbout": "adult_CRAFFT_Forget"
+        },
+        {
+            "variableName": "adult_CRAFFT_CutDown",
+            "isAbout": "adult_CRAFFT_CutDown"
+        },
+        {
+            "variableName": "adult_CRAFFT_Trouble",
+            "isAbout": "adult_CRAFFT_Trouble"
+        },
+        {
+            "variableName": "adult_height",
+            "isAbout": "adult_height"
+        },
+        {
+            "variableName": "adult_weight",
+            "isAbout": "adult_weight"
+        },
+        {
+            "variableName": "adult_ID",
+            "isAbout": "adult_ID"
+        }
+    ],
+    "ui": {
+        "order": [
+            "adult_consent",
+            "adult_consent2",
+            "adult_Age",
+            "adult_Sex",
+            "adult_Race",
+            "adult_Ethnicity",
+            "adult_instructions1",
+            "adult_Q1score",
+            "adult_Q2score",
+            "adult_Q3score",
+            "adult_Q4score",
+            "adult_Q5score",
+            "adult_Q6score",
+            "adult_Q7score",
+            "adult_Q8score",
+            "adult_Q9score",
+            "adult_Q10score",
+            "adult_Q11score",
+            "adult_Q12score",
+            "adult_Q13score",
+            "adult_Q14score",
+            "adult_Q15score",
+            "adult_Q16score",
+            "adult_Q17score",
+            "adult_Q18score",
+            "adult_Q19score",
+            "adult_Q20score",
+            "adult_Q21score",
+            "adult_instructions2",
+            "adult_Q22score",
+            "adult_Q23score",
+            "adult_Q24score",
+            "adult_Q25score",
+            "adult_CRAFFT_Alcohol",
+            "adult_CRAFFT_Smoke",
+            "adult_CRAFFT_Other_Drug",
+            "adult_CRAFFT_Car",
+            "adult_CRAFFT_Relax",
+            "adult_CRAFFT_Alone",
+            "adult_CRAFFT_Forget",
+            "adult_CRAFFT_CutDown",
+            "adult_CRAFFT_Trouble",
+            "adult_height",
+            "adult_weight",
+            "adult_ID"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "adult_consent": true,
+            "adult_consent2": true,
+            "adult_Age": true,
+            "adult_Sex": true,
+            "adult_Race": true,
+            "adult_Ethnicity": true,
+            "adult_instructions1": true,
+            "adult_Q1score": true,
+            "adult_Q2score": true,
+            "adult_Q3score": true,
+            "adult_Q4score": true,
+            "adult_Q5score": true,
+            "adult_Q6score": true,
+            "adult_Q7score": true,
+            "adult_Q8score": true,
+            "adult_Q9score": true,
+            "adult_Q10score": true,
+            "adult_Q11score": true,
+            "adult_Q12score": true,
+            "adult_Q13score": true,
+            "adult_Q14score": true,
+            "adult_Q15score": true,
+            "adult_Q16score": true,
+            "adult_Q17score": true,
+            "adult_Q18score": true,
+            "adult_Q19score": true,
+            "adult_Q20score": true,
+            "adult_Q21score": true,
+            "adult_instructions2": true,
+            "adult_Q22score": true,
+            "adult_Q23score": true,
+            "adult_Q24score": true,
+            "adult_Q25score": true,
+            "adult_CRAFFT_Alcohol": true,
+            "adult_CRAFFT_Smoke": true,
+            "adult_CRAFFT_Other_Drug": true,
+            "adult_CRAFFT_Car": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_CRAFFT_Relax": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_CRAFFT_Alone": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_CRAFFT_Forget": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_CRAFFT_CutDown": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_CRAFFT_Trouble": "adult_CRAFFT_Alcohol == 1 || adult_CRAFFT_Smoke == 1 || adult_CRAFFT_Other_Drug == 1",
+            "adult_height": true,
+            "adult_weight": true,
+            "adult_ID": true
+        }
+    }
+}

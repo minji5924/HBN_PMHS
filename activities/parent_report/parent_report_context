@@ -1,0 +1,166 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "parent_report": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/activities/parent_report/items/",
+        "parent_consent": {
+            "@id": "parent_report:parent_consent",
+            "@type": "@id"
+        },
+        "parent_consent2": {
+            "@id": "parent_report:parent_consent2",
+            "@type": "@id"
+        },
+        "parent_Age": {
+            "@id": "parent_report:parent_Age",
+            "@type": "@id"
+        },
+        "parent_Sex": {
+            "@id": "parent_report:parent_Sex",
+            "@type": "@id"
+        },
+        "parent_Race": {
+            "@id": "parent_report:parent_Race",
+            "@type": "@id"
+        },
+        "parent_Ethnicity": {
+            "@id": "parent_report:parent_Ethnicity",
+            "@type": "@id"
+        },
+        "parent_instructions1": {
+            "@id": "parent_report:parent_instructions1",
+            "@type": "@id"
+        },
+        "parent_Q1score": {
+            "@id": "parent_report:parent_Q1score",
+            "@type": "@id"
+        },
+        "parent_Q2score": {
+            "@id": "parent_report:parent_Q2score",
+            "@type": "@id"
+        },
+        "parent_Q3score": {
+            "@id": "parent_report:parent_Q3score",
+            "@type": "@id"
+        },
+        "parent_Q4score": {
+            "@id": "parent_report:parent_Q4score",
+            "@type": "@id"
+        },
+        "parent_Q5score": {
+            "@id": "parent_report:parent_Q5score",
+            "@type": "@id"
+        },
+        "parent_Q6score": {
+            "@id": "parent_report:parent_Q6score",
+            "@type": "@id"
+        },
+        "parent_Q7score": {
+            "@id": "parent_report:parent_Q7score",
+            "@type": "@id"
+        },
+        "parent_Q8score": {
+            "@id": "parent_report:parent_Q8score",
+            "@type": "@id"
+        },
+        "parent_Q9score": {
+            "@id": "parent_report:parent_Q9score",
+            "@type": "@id"
+        },
+        "parent_Q10score": {
+            "@id": "parent_report:parent_Q10score",
+            "@type": "@id"
+        },
+        "parent_Q11score": {
+            "@id": "parent_report:parent_Q11score",
+            "@type": "@id"
+        },
+        "parent_Q12score": {
+            "@id": "parent_report:parent_Q12score",
+            "@type": "@id"
+        },
+        "parent_Q13score": {
+            "@id": "parent_report:parent_Q13score",
+            "@type": "@id"
+        },
+        "parent_Q14score": {
+            "@id": "parent_report:parent_Q14score",
+            "@type": "@id"
+        },
+        "parent_Q15score": {
+            "@id": "parent_report:parent_Q15score",
+            "@type": "@id"
+        },
+        "parent_Q16score": {
+            "@id": "parent_report:parent_Q16score",
+            "@type": "@id"
+        },
+        "parent_Q17score": {
+            "@id": "parent_report:parent_Q17score",
+            "@type": "@id"
+        },
+        "parent_Q18score": {
+            "@id": "parent_report:parent_Q18score",
+            "@type": "@id"
+        },
+        "parent_Q19score": {
+            "@id": "parent_report:parent_Q19score",
+            "@type": "@id"
+        },
+        "parent_Q20score": {
+            "@id": "parent_report:parent_Q20score",
+            "@type": "@id"
+        },
+        "parent_Q21score": {
+            "@id": "parent_report:parent_Q21score",
+            "@type": "@id"
+        },
+        "parent_instructions2": {
+            "@id": "parent_report:parent_instructions2",
+            "@type": "@id"
+        },
+        "parent_Q22score": {
+            "@id": "parent_report:parent_Q22score",
+            "@type": "@id"
+        },
+        "parent_Q23score": {
+            "@id": "parent_report:parent_Q23score",
+            "@type": "@id"
+        },
+        "parent_Q24score": {
+            "@id": "parent_report:parent_Q24score",
+            "@type": "@id"
+        },
+        "parent_Q25score": {
+            "@id": "parent_report:parent_Q25score",
+            "@type": "@id"
+        },
+        "parent_Insurance": {
+            "@id": "parent_report:parent_Insurance",
+            "@type": "@id"
+        },
+        "parent_Edu": {
+            "@id": "parent_report:parent_Edu",
+            "@type": "@id"
+        },
+        "parent_Income": {
+            "@id": "parent_report:parent_Income",
+            "@type": "@id"
+        },
+        "parent_Location": {
+            "@id": "parent_report:parent_Location",
+            "@type": "@id"
+        },
+        "parent_height": {
+            "@id": "parent_report:parent_height",
+            "@type": "@id"
+        },
+        "parent_weight": {
+            "@id": "parent_report:parent_weight",
+            "@type": "@id"
+        },
+        "parent_ID": {
+            "@id": "parent_report:parent_ID",
+            "@type": "@id"
+        }
+    }
+}

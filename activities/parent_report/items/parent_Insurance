@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "parent_Insurance",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
+    },
+    "question": "From where do you get your health insurance?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "Medicare/Medicaid",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "Current Employer or Spouse/Partner's Employer",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "Self-Pay| 4",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesChoose not to disclose.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "Other",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

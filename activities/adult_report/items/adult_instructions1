@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_instructions1",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "Please mark under the heading that best fits you."
+}

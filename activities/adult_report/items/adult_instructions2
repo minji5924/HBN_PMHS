@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "adult_instructions2",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": "The next questions are about your eating habits and feelings about your shape and weight. Please give your answers on the basis of your behavior over the past 3 months:"
+}
