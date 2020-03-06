@@ -11,7 +11,7 @@
             "dontKnow"
         ]
     },
-    "question": "\r\n\r\n![compass.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagescompass.png =150x150)\r\n\r\nIn what area of Staten Island do you live?",
+    "question": "\r\n\r\n![compass.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/compass.png =150x150)\r\n\r\nIn what area of Staten Island do you live?",
     "responseOptions": {
         "choices": [
             {

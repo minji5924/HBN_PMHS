@@ -11,7 +11,7 @@
             "dontKnow"
         ]
     },
-    "question": "\r\n\r\n![graduate.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesgraduate.png =150x150)\r\n\r\nWhat is the highest level of education of the child's legal guardian?",
+    "question": "\r\n\r\n![graduate.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/graduate.png =150x150)\r\n\r\nWhat is the highest level of education of the child's legal guardian?",
     "responseOptions": {
         "choices": [
             {

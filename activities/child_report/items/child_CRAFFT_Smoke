@@ -11,7 +11,7 @@
             "dontKnow"
         ]
     },
-    "question": "\r\n\r\n![marijuana.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesmarijuana.png =150x150)\r\n\r\nDuring the past 12 months, did you: \r\n\r\nSmoke any marijuanaor hashish?",
+    "question": "\r\n\r\n![marijuana.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/marijuana.png =150x150)\r\n\r\nDuring the past 12 months, did you: \r\n\r\nSmoke any marijuanaor hashish?",
     "responseOptions": {
         "choices": [
             {

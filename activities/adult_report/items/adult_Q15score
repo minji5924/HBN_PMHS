@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![worried.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesworried.png =150x150)\r\n\r\nWorry a lot",
+    "question": "\r\n\r\n![worried.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/worried.png =150x150)\r\n\r\nWorry a lot",
     "responseOptions": {
         "choices": [
             {

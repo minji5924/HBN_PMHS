@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "version 9"
 
 //4. where are you hosting your images?
-let imagePath = `${yourRepoURL}/images`
+let imagePath = `${yourRepoURL}/images/`
 
 /* hard coded activity display object
 let activityDisplayObj = {

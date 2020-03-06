@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![depressed.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesdepressed.png =150x150)\r\n\r\nFeeling down, depressed, or hopeless",
+    "question": "\r\n\r\n![depressed.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/depressed.png =150x150)\r\n\r\nFeeling down, depressed, or hopeless",
     "responseOptions": {
         "choices": [
             {
