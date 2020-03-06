@@ -11,7 +11,7 @@
             "dontKnow"
         ]
     },
-    "question": "During the past 12 months, did you: \r\n\r\nUse anything else to get high? (\"anything else\" includes illegal drugs, over the counter and perscription drugs, and things that you sniff or \"huff\")",
+    "question": "\r\n\r\n![drug.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesdrug.png =150x150)\r\n\r\nDuring the past 12 months, did you: \r\n\r\nUse anything else to get high? (\"anything else\" includes illegal drugs, over the counter and perscription drugs, and things that you sniff or \"huff\")",
     "responseOptions": {
         "choices": [
             {

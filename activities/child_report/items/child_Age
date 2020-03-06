@@ -5,7 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "child_Age",
     "ui": {
-        "inputType": "radio",
+        "inputType": "select",
         "allow": [
             "autoAdvance"
         ]

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Act as if driven by a motor",
+    "question": "\r\n\r\n![motor.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesmotor.png =150x150)\r\n\r\nAct as if driven by a motor",
     "responseOptions": {
         "choices": [
             {

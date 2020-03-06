@@ -11,7 +11,7 @@
             "dontKnow"
         ]
     },
-    "question": "From where do you get your health insurance?",
+    "question": "\r\n\r\n![Hospital.png](https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/imagesHospital.png =150x150)\r\n\r\nFrom where do you get your health insurance?",
     "responseOptions": {
         "choices": [
             {

@@ -5,7 +5,76 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "adult_Age",
     "ui": {
-        "inputType": "text"
+        "inputType": "select"
     },
-    "question": "What is your age?"
+    "question": "What is your age?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 18,
+                "schema:name": "18",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 19,
+                "schema:name": "19",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 20,
+                "schema:name": "20",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 21,
+                "schema:name": "21",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 22,
+                "schema:name": "22",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 23,
+                "schema:name": "23",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 24,
+                "schema:name": "24",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 25,
+                "schema:name": "25",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 26,
+                "schema:name": "26",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 27,
+                "schema:name": "27",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 28,
+                "schema:name": "28",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 29,
+                "schema:name": "29",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 30,
+                "schema:name": "Over 30",
+                "@type": "schema:option"
+            }
+        ]
+    }
 }
