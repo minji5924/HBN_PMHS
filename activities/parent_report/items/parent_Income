@@ -41,9 +41,13 @@
             },
             {
                 "schema:value": 6,
-                "schema:name": "$50K to $59K |7",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/$60K to $69K.png"
+                "schema:name": "$50K to $59K",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "$60K to $69K",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 8,

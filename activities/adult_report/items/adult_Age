@@ -72,7 +72,7 @@
             },
             {
                 "schema:value": 30,
-                "schema:name": "Over 30",
+                "schema:name": "Over 29",
                 "@type": "schema:option"
             }
         ]
