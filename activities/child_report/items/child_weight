@@ -5,10 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "child_weight",
     "ui": {
-        "inputType": "text",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "text"
     },
     "question": "What is this child's weight (lbs)?"
 }
