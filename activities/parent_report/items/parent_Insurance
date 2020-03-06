@@ -26,9 +26,13 @@
             },
             {
                 "schema:value": 3,
-                "schema:name": "Self-Pay| 4",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/minji5924/HBN_PMHS/master/images/Choose not to disclose.png"
+                "schema:name": "Self-Pay",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "Choose not to disclose",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 5,
