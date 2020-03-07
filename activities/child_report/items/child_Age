@@ -5,10 +5,7 @@
     "@type": "reproschema:Field",
     "skos:altLabel": "child_Age",
     "ui": {
-        "inputType": "select",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "select"
     },
     "question": "What is your age?",
     "responseOptions": {
